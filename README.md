@@ -26,7 +26,7 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 
-Recording link:
+Recording link: https://drive.google.com/file/d/1x6VmndPuReILtQu-LOO6Y5tTnmyFLAy6/view 
 GitHub Repo URL: https://github.com/simonmoore23/svg-logo-generator
 
 ## Description
